@@ -1,0 +1,35 @@
+
+#display, #monitor
+{
+    width: 253px;
+    margin: 4px;
+    text-align: right;
+    border-style: solid;
+    padding-right: 20px;
+}
+#display
+{
+    border-bottom: 0px;
+    height: 15px;
+    font-size: 12pt;
+    padding-top: 5px;
+}
+#monitor
+{
+    border-top: 0px;
+    height: 45px;
+    margin-top: -6px;
+    font-size: 20pt;
+}
+
+.boton, .boton2
+{
+    width: 60px;
+    height: 35px;
+    margin: 4px;
+}
+
+.boton2
+{
+    width: 132px;
+}
